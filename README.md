@@ -15,11 +15,10 @@
 Here, are some Scrrenshots form Application.
 
 ![Screenshot_20210417-180329_Expo Go](https://user-images.githubusercontent.com/58334597/115113680-1a08b600-9fa9-11eb-95a3-3d00ceca9c2e.jpg)
-
-![Screenshot_20210417-180403_Expo Go](https://user-images.githubusercontent.com/58334597/115113392-bfbb2580-9fa7-11eb-9902-7697884726dd.jpg)
-![Screenshot_20210417-180411_Expo Go](https://user-images.githubusercontent.com/58334597/115113394-c6499d00-9fa7-11eb-8108-4b6c775ef7d9.jpg)
-![Screenshot_20210417-180416_Expo Go](https://user-images.githubusercontent.com/58334597/115113397-c8abf700-9fa7-11eb-8f83-3bbbf1a3ed78.jpg)
-![Screenshot_20210417-180421_Expo Go](https://user-images.githubusercontent.com/58334597/115113398-ca75ba80-9fa7-11eb-921a-4802392db4ed.jpg)
+![Screenshot_20210417-180403_Expo Go](https://user-images.githubusercontent.com/58334597/115113730-5fc57e80-9fa9-11eb-83b0-3b2274fd1c6e.jpg)
+![Screenshot_20210417-180411_Expo Go](https://user-images.githubusercontent.com/58334597/115113736-6227d880-9fa9-11eb-9e03-2b8b3e7b5545.jpg)
+![Screenshot_20210417-180416_Expo Go](https://user-images.githubusercontent.com/58334597/115113737-63f19c00-9fa9-11eb-97d9-95280a383bde.jpg)
+![Screenshot_20210417-180421_Expo Go](https://user-images.githubusercontent.com/58334597/115113741-648a3280-9fa9-11eb-9898-3574249c3180.jpg)
 
 
 * APPLICATION DEMO
@@ -72,7 +71,8 @@ RESULT ANALYSIS​
 
 APP-INTEGRATION
 
-![Screenshot_20210417-180437_Expo Go](https://user-images.githubusercontent.com/58334597/115113409-d8c3d680-9fa7-11eb-8840-eb3956c53dec.jpg)
+![Screenshot_20210417-180437_Expo Go](https://user-images.githubusercontent.com/58334597/115113751-74a21200-9fa9-11eb-83d6-7dcf77ceacf6.jpg)
+
 
 
 
@@ -86,7 +86,8 @@ Problem- As heroku provides only with 500mb so we decided to use small size mode
 
 APP-INTEGRATION
 
-![Screenshot_20210417-180444_Expo Go](https://user-images.githubusercontent.com/58334597/115113423-dfeae480-9fa7-11eb-8309-ce61bd933b1e.jpg)
+![Screenshot_20210417-180444_Expo Go](https://user-images.githubusercontent.com/58334597/115113756-79ff5c80-9fa9-11eb-82ab-1efc5ff41d16.jpg)
+
 
 
 # E-Mart
