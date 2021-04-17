@@ -153,4 +153,4 @@ Backend implementation has been done by using online database i.e MongoDB Atlas.
 4. For merchants also, it will cut their raw materials cost as there is no involvement of broker and it will give them various opportunities to expand their businesses by selling their products online to a massive population of farmers.
 
 
-Members- https://github.com/Marmik343
+
