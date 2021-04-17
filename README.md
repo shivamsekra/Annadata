@@ -1,5 +1,4 @@
-# Annadata
-अन्नदाता(A Krishak Kalyan App)
+# Annadata-अन्नदाता(A Krishak Kalyan App)
 
 ![Capture1](https://user-images.githubusercontent.com/58334597/115112109-84b5f380-9fa1-11eb-84b2-c787ed1146ea.PNG)
       
