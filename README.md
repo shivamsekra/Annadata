@@ -19,10 +19,10 @@ Due to digitalization, there has been a steep reduction in the sales of local me
 
 
 # SCOPE OF THE PROJECT​
--Prediction Of Harvest Yield Before Season​
--Crop Prediction​
--E-mart for Farmers​
--Government Schemes​
--Soil Quality Checks​
+-Prediction Of Harvest Yield Before Season
+-Crop Prediction
+-E-mart for Farmers
+-Government Schemes
+-Soil Quality Checks
 -Kisaan Calculator
 
