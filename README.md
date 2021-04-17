@@ -72,6 +72,7 @@ RESULT ANALYSIS​
 APP-INTEGRATION
 
 ![Screenshot_20210417-180437_Expo Go](https://user-images.githubusercontent.com/58334597/115113751-74a21200-9fa9-11eb-83d6-7dcf77ceacf6.jpg)
+![Screenshot_20210417-182200_Expo Go](https://user-images.githubusercontent.com/58334597/115113890-2ccfba80-9faa-11eb-9491-f05c90fed65e.jpg)
 
 
 
@@ -87,6 +88,7 @@ Problem- As heroku provides only with 500mb so we decided to use small size mode
 APP-INTEGRATION
 
 ![Screenshot_20210417-180444_Expo Go](https://user-images.githubusercontent.com/58334597/115113756-79ff5c80-9fa9-11eb-82ab-1efc5ff41d16.jpg)
+![Screenshot_20210417-182125_Expo Go](https://user-images.githubusercontent.com/58334597/115113892-30fbd800-9faa-11eb-87ab-0ab3cf2f0d1f.jpg)
 
 
 
