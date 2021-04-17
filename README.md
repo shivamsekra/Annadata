@@ -102,7 +102,7 @@ Farmer can request for Soil quality check to get better insights and predictions
 ![calci](https://user-images.githubusercontent.com/58334597/115113089-1b84af00-9fa6-11eb-8775-700a6384ebbf.PNG)
 
 
-#BACK-END IMPLEMENTATION​
+# BACK-END IMPLEMENTATION​
 Backend implementation has been done by using online database i.e MongoDB Atlas. Database than has been connected to front-end using Flask App which is deployed on Heroku.
 
 ![mongo](https://user-images.githubusercontent.com/58334597/115113080-1162b080-9fa6-11eb-919b-ce27f11fee42.PNG)
