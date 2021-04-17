@@ -14,8 +14,8 @@
 
 Here, are some Scrrenshots form Application.
 
-<img src="(https://user-images.githubusercontent.com/58334597/115113385-ba5ddb00-9fa7-11eb-8598-5918875a5cf9.jpg" width="300" />
-![Screenshot_20210417-180329_Expo Go](https://user-images.githubusercontent.com/58334597/115113385-ba5ddb00-9fa7-11eb-8598-5918875a5cf9.jpg=250x250)
+
+![Screenshot_20210417-180329_Expo Go](https://user-images.githubusercontent.com/58334597/115113385-ba5ddb00-9fa7-11eb-8598-5918875a5cf9.jpg | 250x250)
 ![Screenshot_20210417-180403_Expo Go](https://user-images.githubusercontent.com/58334597/115113392-bfbb2580-9fa7-11eb-9902-7697884726dd.jpg=250x250)
 ![Screenshot_20210417-180411_Expo Go](https://user-images.githubusercontent.com/58334597/115113394-c6499d00-9fa7-11eb-8108-4b6c775ef7d9.jpg=250x250)
 ![Screenshot_20210417-180416_Expo Go](https://user-images.githubusercontent.com/58334597/115113397-c8abf700-9fa7-11eb-8f83-3bbbf1a3ed78.jpg=250x250)
