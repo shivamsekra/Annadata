@@ -14,6 +14,18 @@
 
 Here, are some Scrrenshots form Application.
 
+![Screenshot_20210417-180329_Expo Go](https://user-images.githubusercontent.com/58334597/115113385-ba5ddb00-9fa7-11eb-8598-5918875a5cf9.jpg)
+![Screenshot_20210417-180403_Expo Go](https://user-images.githubusercontent.com/58334597/115113392-bfbb2580-9fa7-11eb-9902-7697884726dd.jpg)
+![Screenshot_20210417-180411_Expo Go](https://user-images.githubusercontent.com/58334597/115113394-c6499d00-9fa7-11eb-8108-4b6c775ef7d9.jpg)
+![Screenshot_20210417-180416_Expo Go](https://user-images.githubusercontent.com/58334597/115113397-c8abf700-9fa7-11eb-8f83-3bbbf1a3ed78.jpg)
+![Screenshot_20210417-180421_Expo Go](https://user-images.githubusercontent.com/58334597/115113398-ca75ba80-9fa7-11eb-921a-4802392db4ed.jpg)
+
+
+* APPLICATION DEMO
+To take a demo please install Expo-Go application form play-store and scan this QR code from the app to access Annadata.
+
+![expo](https://user-images.githubusercontent.com/58334597/115113271-22f88800-9fa7-11eb-9ca2-a4af145904f6.PNG)
+
 
 
 # MOTIVATION​
@@ -59,6 +71,7 @@ RESULT ANALYSIS​
 
 APP-INTEGRATION
 
+![Screenshot_20210417-180437_Expo Go](https://user-images.githubusercontent.com/58334597/115113409-d8c3d680-9fa7-11eb-8840-eb3956c53dec.jpg)
 
 
 
@@ -71,6 +84,8 @@ We comapred VGG16, resnet50, mobile net v3 large and small. As all Are State of 
 Problem- As heroku provides only with 500mb so we decided to use small size model i.e MobileNetV3 Small without compromising any accuracy.
 
 APP-INTEGRATION
+
+![Screenshot_20210417-180444_Expo Go](https://user-images.githubusercontent.com/58334597/115113423-dfeae480-9fa7-11eb-8309-ce61bd933b1e.jpg)
 
 
 # E-Mart
