@@ -2,7 +2,7 @@
 
 ![Capture1](https://user-images.githubusercontent.com/58334597/115112109-84b5f380-9fa1-11eb-84b2-c787ed1146ea.PNG)
       
-
+ 
 # INTRODUCTION​
 * There are many problems that a farmer faces during their day-to-day life. They are  not well educated and generally people like merchants take advantage of farmers and they often mislead them, for example, charging more money from the farmer than the actual rate, and   there are many such examples which suggest that the farmer in our country are taken advantage of. 
 * They may not have proper knowledge of how market works or what seeds to sow at what time of the year.
@@ -151,3 +151,6 @@ Backend implementation has been done by using online database i.e MongoDB Atlas.
 2. Our app will remove various barriers and hassle which farmers face while buying/selling various products related to farming.​
 3. It will help them become more aware , organized through various features introduced in our application.​
 4. For merchants also, it will cut their raw materials cost as there is no involvement of broker and it will give them various opportunities to expand their businesses by selling their products online to a massive population of farmers.
+
+
+Members- *https://github.com/Marmik343
