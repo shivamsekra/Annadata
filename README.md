@@ -12,6 +12,10 @@
 * It has an integrated platform which will cover up solutions for most of the problems faced by  farmers.
 * Interface has been designed keeping in mind the education and skills of the farmer. So, that they can easily access our application.
 
+Here, are some Scrrenshots form Application.
+
+
+
 # MOTIVATION​
 Looking at the disturbing numbers of the suicides and due to the exploitation of the farmers we the team of Annadata thought of developing this application.​
 Due to digitalization, there has been a steep reduction in the sales of local merchants, as they don’t have platform to sell their products online.​
@@ -25,10 +29,106 @@ Due to digitalization, there has been a steep reduction in the sales of local me
 5. Soil Quality Checks
 6. Kisaan Calculator
 
-![archi](https://user-images.githubusercontent.com/58334597/115112276-6bfa0d80-9fa2-11eb-8ff8-822bc0689a93.PNG)
+# PROPOSED ARCHITECTURE​
+
+![archi](https://user-images.githubusercontent.com/58334597/115112324-a9f73180-9fa2-11eb-9466-f490f204383f.PNG)
+
+# TECHNOLOGY APPROACH
+
+![tech](https://user-images.githubusercontent.com/58334597/115112332-b4b1c680-9fa2-11eb-9621-8b823a9e64b2.PNG)
 
 
-![tech app](https://user-images.githubusercontent.com/58334597/115112282-72888500-9fa2-11eb-8c5d-4e8461ef4644.PNG)
+# CROP YIELD PREDICTION - [AI-Feature-1]
+
+This feature would help farmers to predict Yield in tons. We have taken data from different sources like data.gov.in / kaggle etc. 
+After Feature selection and applying preprocessing techniques like handling null values, encoding etc we used following features.
+
+![predict](https://user-images.githubusercontent.com/58334597/115112442-3a357680-9fa3-11eb-8448-51f13ca2a881.PNG)
+
+
+ALGORITHM FOR CROP YIELD PREDICTION
+
+-We worked upon multiple algorithms like xgBoost, RandomForest, NN, RNN-LSTM to achieve the best possible accuracy by comparing their Root Mean Square Values which after reading several research papers and comparing our results we found best to be used Random Forest Algorithm.
+
+![code](https://user-images.githubusercontent.com/58334597/115112511-79fc5e00-9fa3-11eb-8414-ceeda1d89289.PNG)
+
+RESULT ANALYSIS​
+
+![result](https://user-images.githubusercontent.com/58334597/115112551-add78380-9fa3-11eb-9d6a-37bbb95ed7e8.PNG)
+
+
+APP-INTEGRATION
 
 
 
+
+# CROP PREDICTION - [AI-Feature-2]
+
+This feature enables a farmer to predict what crops he/she can grow according to the type of soil.
+This is an image classfication problem statement in which is trained on a dataset containing arounf 1000 images belonging to 4 classes i.e Alluvial,Red,Black,Clay soil.
+
+We comapred VGG16, resnet50, mobile net v3 large and small. As all Are State of art algos , all were giving good accuracy of arounf 95%. 
+Problem- As heroku provides only with 500mb so we decided to use small size model i.e MobileNetV3 Small without compromising any accuracy.
+
+APP-INTEGRATION
+
+
+# E-Mart
+
+Platform for Buy-Sell to help farmers cut mediator interests and provide farmer, households, merchnats with one single online platform for trade.
+
+
+![emart](https://user-images.githubusercontent.com/58334597/115112797-d744df00-9fa4-11eb-9afe-024d0178ec49.PNG)
+
+
+# GOVERNMENT SCHEMES​
+We've scrapped data from The Economic Times website using Beautiful soup.
+
+![gov](https://user-images.githubusercontent.com/58334597/115113105-293a3480-9fa6-11eb-8f9e-2df407eafc47.PNG)
+
+
+# SOIL QUALITY CHECK​
+
+Farmer can request for Soil quality check to get better insights and predictions on  basis of their soil type and quality.
+
+![soil](https://user-images.githubusercontent.com/58334597/115113095-22132680-9fa6-11eb-9103-2b0e6921ada2.PNG)
+
+
+# KISAAN CALCULATOR​
+* Through this feature we are trying to make farmer aware​
+* Farmers are being charged interests on the day basis.​
+* We used Simple interest formula to calculate final amount.
+
+![calci](https://user-images.githubusercontent.com/58334597/115113089-1b84af00-9fa6-11eb-8775-700a6384ebbf.PNG)
+
+
+#BACK-END IMPLEMENTATION​
+Backend implementation has been done by using online database i.e MongoDB Atlas. Database than has been connected to front-end using Flask App which is deployed on Heroku.
+
+![mongo](https://user-images.githubusercontent.com/58334597/115113080-1162b080-9fa6-11eb-919b-ce27f11fee42.PNG)
+
+![flask](https://user-images.githubusercontent.com/58334597/115113084-16276480-9fa6-11eb-8f9c-e95b3819c278.PNG)
+
+
+# DEPLOYMENT-HEROKU​
+
+
+![heroku](https://user-images.githubusercontent.com/58334597/115113069-0871df00-9fa6-11eb-867d-ede3f7d58de0.PNG)
+
+
+
+# FUTURE WORK​
+
+1. We will work on the efficiencies of the prediction and classification algorithms. ​
+2. We plan to integrate soil quality check with crop prediction feature to give best AI based predictions.
+3. Also, we will add the GPS feature in buy/sell section so that farmers can get local buyers/sellers easily.​
+4. We will add new widgets and drop downs to make the app more efficient to use.​
+5. Finally, we will also add some more regional languages in a planned manner so that users from other states can use it as well. 
+
+
+# IMPACT​
+
+1. Our application will indirectly focus on reducing the suicide rates of the farmers by increasing their Per Capita income.​
+2. Our app will remove various barriers and hassle which farmers face while buying/selling various products related to farming.​
+3. It will help them become more aware , organized through various features introduced in our application.​
+4. For merchants also, it will cut their raw materials cost as there is no involvement of broker and it will give them various opportunities to expand their businesses by selling their products online to a massive population of farmers.
