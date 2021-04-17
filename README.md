@@ -21,7 +21,7 @@ Here, are some Scrrenshots form Application.
 ![Screenshot_20210417-180430_Expo Go](https://user-images.githubusercontent.com/58334597/115113908-46710200-9faa-11eb-9c66-f276eb77f9dc.jpg)
 
 
-* APPLICATION DEMO
+* APPLICATION DEMO-
 To take a demo please install Expo-Go application form play-store and scan this QR code from the app to access Annadata.
 
 ![expo](https://user-images.githubusercontent.com/58334597/115113271-22f88800-9fa7-11eb-9ca2-a4af145904f6.PNG)
