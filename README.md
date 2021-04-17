@@ -1,7 +1,8 @@
 # Annadata
-अन्नदाता(A Krishak Kalyan App) ![Capture1](https://user-images.githubusercontent.com/58334597/115112109-84b5f380-9fa1-11eb-84b2-c787ed1146ea.PNG)
-      
+अन्नदाता(A Krishak Kalyan App)
 
+![Capture1](https://user-images.githubusercontent.com/58334597/115112109-84b5f380-9fa1-11eb-84b2-c787ed1146ea.PNG)
+      
 
 # INTRODUCTION​
 * There are many problems that a farmer faces during their day-to-day life. They are  not well educated and generally people like merchants take advantage of farmers and they often mislead them, for example, charging more money from the farmer than the actual rate, and   there are many such examples which suggest that the farmer in our country are taken advantage of. 
@@ -23,4 +24,11 @@ Due to digitalization, there has been a steep reduction in the sales of local me
 4. Government Schemes
 5. Soil Quality Checks
 6. Kisaan Calculator
+
+![archi](https://user-images.githubusercontent.com/58334597/115112276-6bfa0d80-9fa2-11eb-8ff8-822bc0689a93.PNG)
+
+
+![tech app](https://user-images.githubusercontent.com/58334597/115112282-72888500-9fa2-11eb-8c5d-4e8461ef4644.PNG)
+
+
 
