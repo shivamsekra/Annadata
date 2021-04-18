@@ -11,7 +11,7 @@
 * It has an integrated platform which will cover up solutions for most of the problems faced by  farmers.
 * Interface has been designed keeping in mind the education and skills of the farmer. So, that they can easily access our application.
 
-Here, are some Scrrenshots form Application.
+Here, are some Scrrenshots from Application.
 
 ![Screenshot_20210417-180329_Expo Go](https://user-images.githubusercontent.com/58334597/115113680-1a08b600-9fa9-11eb-95a3-3d00ceca9c2e.jpg)
 ![Screenshot_20210417-180403_Expo Go](https://user-images.githubusercontent.com/58334597/115113730-5fc57e80-9fa9-11eb-83b0-3b2274fd1c6e.jpg)
@@ -22,7 +22,7 @@ Here, are some Scrrenshots form Application.
 
 
 * APPLICATION DEMO-
-To take a demo please install Expo-Go application form play-store and scan this QR code from the app to access Annadata.
+To take a demo please install Expo-Go application from play-store and scan this QR code from the app to access Annadata.
 
 ![expo](https://user-images.githubusercontent.com/58334597/115113271-22f88800-9fa7-11eb-9ca2-a4af145904f6.PNG)
 
